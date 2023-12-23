@@ -1,0 +1,18 @@
+body{
+    background-color: cyan ; font-family: cursive;
+}
+h1{
+    background-color: lime; color: lightsalmon; font-size: 50px;
+}
+p{
+    background-color: blue; color: orange; font-size:  45px;
+}
+i{
+    background-color: beige; color: sienna; font-size: 40px; 
+}
+marquee{
+    background-color: goldenrod; color: purple; font-size: 35px;
+}
+b{
+    background-color: lightgreen; color: royalblue; font-size: 30px;
+}
